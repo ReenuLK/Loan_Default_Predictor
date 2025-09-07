@@ -2,9 +2,9 @@
 Loan Default Prediction using Machine Learning | Applied SMOTE for class imbalance, implemented Random Forest, XGBoost &amp; Ensemble methods, and optimized performance using Recall, F1-score, and ROC-AUC
 <br>
 Author : Reenu LK
-<br>
 <b>DATASET</b>
-<p>Souce : Kaggle</p><br><p>Size : (255347, 18)</p>
+<p>Source : Kaggle</p>
+<p>Size : (255347, 18)</p>
 <p>Target : 0(Not default) 1 (default)</p>
 <p>Features : Age, Income, Loan Amount, Credit Score, Employment, etc.</p>
 <b>APPROACH</b><br> <p>Data preprocessing like detecting null values,duplicate values , removing outliers if found,encoding and Standard scaling</p>
